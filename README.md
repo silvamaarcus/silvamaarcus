@@ -12,7 +12,7 @@
 
 - 🔭 Último trabalho ~> [Calculadora de Datas](https://github.com/silvamaarcus/age-calculator-app)
 
-- 🌱 Aprendendo...  **API´s | React**
+- 🌱 Aprendendo ~>  **API´s | React**
 
 - 👨‍💻 Meus projetos ~> [GitHub - silvamaarcus](https://github.com/silvamaarcus/)
 
