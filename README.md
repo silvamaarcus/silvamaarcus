@@ -14,7 +14,7 @@
 
 - 🌱 Aprendendo ~>  **API´s | React**
 
-- 👨‍💻 Meus projetos ~> [GitHub - silvamaarcus](https://github.com/silvamaarcus/)
+- 👨‍💻 Meus projetos ~> [GitHub - silvamaarcus](https://github.com/silvamaarcus?tab=repositories)
 
 - 📫 Fale comigo ~> devsilvamarcus@gmail.com
 
