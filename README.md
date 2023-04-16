@@ -1,26 +1,29 @@
 <h1 align="center">Oi 👋, eu sou Marcus Silva!</h1>
-<h3 align="center">Desenvolvedor Frontend.</h3> 
+<h3 align="center">Desenvolvedor Frontend</h3> 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=silvamaarcus&show_icons=true&theme=radical&locale=en" alt="silvamaarcus" /></p>
+<div style="display:flex; align-items: center; justify-content: space-between">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=silvamaarcus&show_icons=&bg_color=1a1a1a&title_color=FF0000&text_color=777&locale=en" alt="silvamaarcus" /></p>
 
-- 🔭 Estou trabalhando com [Calculadora de Datas](https://github.com/silvamaarcus/age-calculator-app)
+<p><img align="center" src="https://user-images.githubusercontent.com/75142775/232345612-1b92ccd5-40e4-4b1e-b7ee-5315409d730d.png" alt="silvamaarcus" /></p>
 
-- 🌱 Aprendendo... **API´s e React**
+</div>
 
-- 👨‍💻 Meus projetos [silvamaarcus](https://github.com/silvamaarcus/)
+- 🔭 Último trabalho ~> [Calculadora de Datas](https://github.com/silvamaarcus/age-calculator-app)
 
-- 📫 Fale comigo **devsilvamarcus@gmail.com**
+- 🌱 Aprendendo...  **API´s | React**
 
-- ⚡ **"Escolhas difíceis, vida fácil! Escolhas fáceis, vida difícil!"**
+- 👨‍💻 Meus projetos ~> [GitHub - silvamaarcus](https://github.com/silvamaarcus/)
+
+- 📫 Fale comigo ~> devsilvamarcus@gmail.com
+
+ ⚡ **"Escolhas difíceis, vida fácil! Escolhas fáceis, vida difícil!"**
 
 <h3 align="left">Onde me encontrar:</h3>
 <p align="left">
 <a href="https://codepen.io/silvamaarcus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="silvamaarcus" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/silvamaarcus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silvamaarcus" height="30" width="40" /></a>
 </p>
-
-
 
 <h3 align="left">Linguagens & Ferramentas:</h3>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
@@ -38,4 +41,4 @@
 <br>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silvamaarcus&show_icons=true&theme=radical&locale=en&layout=compact" alt="silvamaarcus" /></p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvamaarcus&theme=radical&row=2&column=3" alt="silvamaarcus" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvamaarcus&theme=radical&row=2&column=3" alt="silvamaarcus" /></a> </p> -->
