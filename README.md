@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Marcus Silva!</h1>
-<h3 align="center">Desenvolvedor Frontend JavaScript | CSS | HTML</h3> 
+<h3 align="center">Desenvolvedor Frontend - JavaScript | CSS | HTML</h3> 
 <br>
 
  
