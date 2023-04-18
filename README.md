@@ -9,9 +9,9 @@
 <img align="right" src="https://user-images.githubusercontent.com/75142775/232347873-6f17b7ef-7077-4557-b258-1ab6405b2b42.png" alt="silvamaarcus"/>
 </p>
 
-- 🌱 Aprendendo ~>  **API´s | React**
+- 🌱 Aprendendo ~>  **React**
 
-- 🔭 Último trabalho ~> [Calculadora de Datas](https://github.com/silvamaarcus/age-calculator-app)
+- 🔭 Último trabalho ~> [ClimaNow](https://github.com/silvamaarcus/climaNow-app)
 
 - 👨‍💻 Meus projetos ~> [GitHub - silvamaarcus](https://github.com/silvamaarcus?tab=repositories)
 
