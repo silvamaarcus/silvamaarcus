@@ -11,7 +11,7 @@
 
 - 🌱 Aprendendo ~>  **React**
 
-- 🔭 Último trabalho ~> [ClimaNow](https://github.com/silvamaarcus/climaNow-app)
+- 🔭 Último trabalho ~> [The Movie](https://github.com/silvamaarcus/theMovie)
 
 - 👨‍💻 Meus projetos ~> [GitHub - silvamaarcus](https://github.com/silvamaarcus?tab=repositories)
 
