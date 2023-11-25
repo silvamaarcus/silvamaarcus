@@ -9,9 +9,11 @@
 <img align="right" src="https://user-images.githubusercontent.com/75142775/232347873-6f17b7ef-7077-4557-b258-1ab6405b2b42.png" alt="silvamaarcus"/>
 </p>
 
-- 🌱 Aprendendo ~>  **React**
+- 🌱 Aprendendo ~>  **React + Vite**
 
-- 🔭 Último trabalho ~> [The Movie](https://github.com/silvamaarcus/theMovie)
+- 💻 Codando ~> [NFT Marketplace](https://github.com/silvamaarcus/nft-marketplace)
+
+- 🔭 Último trabalho ~> [Launch Countdown](https://github.com/silvamaarcus/launch-countdown)
 
 - 👨‍💻 Meus projetos ~> [GitHub - silvamaarcus](https://github.com/silvamaarcus?tab=repositories)
 
