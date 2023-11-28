@@ -13,7 +13,7 @@
 
 - 💻 Codando ~> [NFT Marketplace](https://github.com/silvamaarcus/nft-marketplace)
 
-- 🔭 Último trabalho ~> [Launch Countdown](https://github.com/silvamaarcus/launch-countdown)
+- 🔭 Último trabalho ~> [NFT Marketplace](https://github.com/silvamaarcus/nft-marketplace)
 
 - 👨‍💻 Meus projetos ~> [GitHub - silvamaarcus](https://github.com/silvamaarcus?tab=repositories)
 
