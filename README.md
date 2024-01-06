@@ -6,7 +6,8 @@
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=silvamaarcus&&hide=contribs,prs&show_icons=&bg_color=1a1a1a&title_color=FF0000&text_color=777&locale=en" alt="silvamaarcus"/>
 
-<img align="right" src="https://user-images.githubusercontent.com/75142775/232347873-6f17b7ef-7077-4557-b258-1ab6405b2b42.png" alt="silvamaarcus"/>
+<img align="right" src="https://github.com/silvamaarcus/silvamaarcus/assets/75142775/f0e4e37b-4b73-4fc8-abe5-325ed52aa9c5" alt="silvamaarcus"/>
+
 </p>
 
 - 🌱 Aprendendo ~>  **React + Vite**
