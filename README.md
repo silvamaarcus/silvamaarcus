@@ -12,7 +12,7 @@
 
 - 🌱 Aprendendo ~>  **React + Vite**
 
-- 💻 Codando ~> [Bikcraft](https://github.com/silvamaarcus/portifolio-bikcraft)
+- 💻 Codando ~> [Paybank](https://github.com/silvamaarcus/paybank)
 
 - 🔭 Último trabalho ~> [NFT Marketplace](https://github.com/silvamaarcus/nft-marketplace)
 
