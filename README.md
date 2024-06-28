@@ -15,11 +15,11 @@
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
 
 <!-- Intro  -->
-<h3 align="center">
+<h2 align="center">
         <samp>&gt; Olá!, Eu sou o
                 <b><a target="_blank" href="https://portifoliomarcus.vercel.app" style="color: #B6364EFF;">Marcus!</a></b>
         </samp>
-</h3>
+</h2>
 
 <p align="center"> 
   <samp>
@@ -54,8 +54,8 @@
 
 # Sobre mim
 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+<p align="center">
+ <!-- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> -->
   
  ✌️ &emsp; Escolhas difíceis, vida fácil! Escolhas fáceis, vida difícil! <br/>
  ❤️ &emsp; Apaixonado por criar interfaces e dar vida a inovações<br/>
@@ -67,7 +67,7 @@
 <br/>
 <br/>
 
-## Use To Code
+## Skills
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
