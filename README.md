@@ -2,7 +2,7 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=silvamaarcus&repo=silvamaarcus&countColorcountColor)
 -->
 <h1 align="center">
-  Olá <img src="assets/images/Hi.gif" alt="hi gif" width="33">, eu sou o Marcus 🇧🇷 Desenvolvedor Frontend
+  Olá <img src="assets/images/Hi.gif" alt="hi gif" width="33">, eu sou o Marcus <br/> Desenvolvedor Frontend 👨🏻‍💻
 </h1>
 &nbsp;
 
