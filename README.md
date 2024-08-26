@@ -14,7 +14,7 @@
 
 ## 💫 Sobre mim:
 
-🔭 Trabalho como freelancer<br>🤝 A procura de novas oportunidades<br>🌱 Aprendendo sobre o Typescript<br>⚡ Movido a desafios <br> 💬 Pergunte-me qualquer coisa: devsilvamarcus@gmail.com
+🔭 Trabalho com dev frontend<br>🤝 Sillion (BR)<br>🌱 Aprendendo sobre o Typescript<br>⚡ Movido a desafios <br> 💬 Pergunte-me qualquer coisa: devsilvamarcus@gmail.com
 
 ## 🌐 Redes:
 
