@@ -20,7 +20,7 @@
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/silvamaarcus) -->
 
-[![Website](https://img.shields.io/badge/Website-%23E4405F.svg?logo=Website&logoColor=white)](https://portifoliomarcus.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/b/silvamaarcus)
+[![Website](https://img.shields.io/badge/Website-%23E4405F.svg?logo=Website&logoColor=white)](https://portifoliomarcus.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/b/silvamaarcus)
 
 ## 💻 Tech´s:
 
