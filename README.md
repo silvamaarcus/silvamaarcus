@@ -14,7 +14,7 @@
 
 ## 💫 Sobre mim:
 
-💻 Desenvolvedor Frontend<br>🤝 Trabalhando na  Sillion - Serviços de Tecnologia.<br>🌱 Aprendendo sobre o Docker<br>⚡ Movido a desafios <br> 💬 Pergunte-me qualquer coisa: devsilvamarcus@gmail.com
+💻 Desenvolvedor Frontend<br>🤝 Em busca de novos desafios <br>🌱 Aprendendo sobre o Docker<br>⚡ Movido a desafios <br> 💬 Pergunte-me qualquer coisa: devsilvamarcus@gmail.com
 
 ## 🌐 Redes:
 
