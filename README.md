@@ -2,7 +2,7 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=silvamaarcus&repo=silvamaarcus&countColorcountColor)
 -->
 <h1 align="center">
-  Olá <img src="assets/images/Hi.gif" alt="hi gif" width="33">, eu sou o Marcus!<br/> Desenvolvedor Frontend 👨🏻‍💻
+  Olá <img src="assets/images/Hi.gif" alt="hi gif" width="33">, eu sou o Marcus!<br/> Desenvolvedor Full Stack 👨🏻‍💻
 </h1>
 &nbsp;
 
@@ -14,7 +14,7 @@
 
 ## 💫 Sobre mim:
 
-💻 Desenvolvedor Frontend<br>🤝 Em busca de novos desafios <br>🌱 Aprendendo sobre o Docker<br>⚡ Movido a desafios <br> 💬 Pergunte-me qualquer coisa: devsilvamarcus@gmail.com
+💻 Desenvolvedor Full Satack<br>🤝 Em busca de novos desafios <br>🌱 Aprendendo sobre o Docker<br>⚡ Movido a desafios <br> 💬 Pergunte-me qualquer coisa: devsilvamarcus@gmail.com
 
 ## 🌐 Redes:
 
